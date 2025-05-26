@@ -1,16 +1,19 @@
-🗓 Anime Boston Scheduler Planner
+# 🗓 Anime Boston Scheduler Planner
 Scrapes the Anime Boston 2025 schedule using pandas/beautifulsoup and optimizes event choices using linear programming.
 
 Features:
 - Extracts full event grid with time, room, category, and color
 - Filters low-utility events and early low-value ones
 
-Solves the schedule as an assignment problem via LP
+Solves the schedule as an assignment problem via linear programming (LP) optimization
 
+----
+# Gist of Optimization
 - Optimization is figuring out how to get an objective given constraints and decisions.
 - Decisions are the actions to take toward an objective within constraints. 
-  - x[event] is a yes/no decision variable we want to solve:
-    - 1 = schedule event
+  - x[event] is a yes/no decision variable we want to solve per event:
+    - 1 = schedule
+    - 0 = do not schedule
 - An objective is a goal to minimize or maximize (e.g., maximize utility/enjoyment given events selected)
 - Constraints are what the rules are. For example:
   - Focus on interesting events only.
@@ -24,7 +27,7 @@ Solves the schedule as an assignment problem via LP
 
 
 ----
-✅ What's done:
+# ✅ What's done:
 - ✅ Completed the web scraping in a notebook that captures the data, processes it (including subevents like Maid Cafe going into 45-min block options), and tidies it.
 - ✅ Write a `WebScrape.py` script for translating data engineering into a CSV (optionally: store timestamp when the script queries data).
 - ✅ After the CSV is fully ready, manually utility score the information.
