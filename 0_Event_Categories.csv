@@ -1,0 +1,53 @@
+Category,Utility_general,Color,Data Value
+18+,4,#F44336,53
+21+,1,#F44336,54
+Activity,6,#F7931E,51
+After Dark,5,#F44336,55
+Anime,5,#FFFF00,76
+Arts and Crafting,4,#CC99FF,63
+Con Culture,3,#00FFFF,82
+Concert,4,#AFE1F1,45
+Cosplay,9,#CC99FF,65
+Dance,4,#CCFFFF,68
+Family Friendly,3,#A64FF7,56
+Fan Content,8,#FF69B4,60
+Fan Creations,2,#CCFF66,32
+Fashion,1,#CC99FF,66
+Food,5,#FFCCFF,70
+Gameshow,9,#72B7ED,13
+Gaming,7,#FFCC00,74
+Guest Content,6,#00FF00,58
+History,6,#CCFFCC,78
+ID Check,0,#999999,20
+Idols and VTubers,8,#CCFFFF,75
+Industry Content,7,#55ED99,59
+Language,8,#FFCCFF,71
+Libraries & Education,6,#CCFF00,29
+Manga,3,#CCFF00,64
+Music,3,#CCFFFF,67
+Myth and Folklore,7,#FFCCFF,84
+Panel,9,#72B7ED,48
+Partner Content,7,#FF69B4,61
+Q&A,3,#72B7ED,49
+Representation,5,#00FFFF,81
+Room Clear,0,#CCCCCC,19
+Seating,0,#CCCCCC,31
+Social Event,8,#F7931E,50
+Social Gatherings,2,#FF3366,42
+Sports,3,#CCFFCC,80
+Stage Show,9,#AFE1F1,47
+Tournament,9,#F7931E,52
+Travel,7,#CCFFCC,79
+Video,5,#66A3D2,1
+Workshop,7,#F7931E,21
+Arts and Crafting|Partner Content,4,#CC99FF|#FF69B4,
+Partner Content|Workshop,3, #F7931E|#FF69B4,
+Social Event|Workshop,9, #F7931E,
+Fan Creations|Video,7,,
+Fan Panel,5,,
+Social Event|18+,10,,
+Arts and Crafting|Cosplay,1,,
+Arts and Crafting|Partner Content|Workshop,7,,
+Arts and Crafting|Workshop,7,,
+ID Check|Seating,0,,
+Family Friendly|Social Event,0,,
