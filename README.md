@@ -23,6 +23,11 @@ Solves the schedule as an assignment problem via linear programming (LP) optimiz
   - Locks in until the end (currently no partials, but we could leave 15 mins early if we want, for example)
 - Only one meal for lunch and one meal for dinner
   - I assumed flexible 60-minute meal 'events' between, say, 11:30 am and 1:30 pm; 5:00 pm and 7:30 pm)
+ 
+# 🔁 Nice to haves for next year
+- Refined scoring: Update utility ratings now that we know which events over‑ or under‑deliver.
+- Cross‑building travel time: Model in security checks and walks between Hynes vs. Sheraton to avoid tight transfers.
+- Daily shopping slot: Reserve an hour each day for Artist Alley and Dealers’ Hall (respectively), with enjoyment modeled to drop when it’s predicted to be crowded. But pick up on first day (before stock outs) or last day for closing (discount season!).
 
 ----
 # ✅ What's done:
