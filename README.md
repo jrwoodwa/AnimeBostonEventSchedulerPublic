@@ -24,6 +24,7 @@ Solves the schedule as an assignment problem via linear programming (LP) optimiz
 - Only one meal for lunch and one meal for dinner
   - I assumed flexible 60-minute meal 'events' between, say, 11:30 am and 1:30 pm; 5:00 pm and 7:30 pm)
 
+----
 # ✅ What's done:
 - ✅ Completed the web scraping in a notebook that captures the data, processes it (including subevents like Maid Cafe going into 45-min block options), and tidies it.
 - ✅ Write a `WebScrape.py` script for translating data engineering into a CSV (optionally: store timestamp when the script queries data).
