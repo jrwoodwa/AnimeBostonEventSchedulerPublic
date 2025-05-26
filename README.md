@@ -7,22 +7,20 @@ Features:
 
 Solves the schedule as an assignment problem via LP
 
-•	Optimization is figuring out how to get an objective given constraints and decisions.
-•	Decisions are the actions to take toward an objective within constraints. 
-o	x[event] is a yes/no decision variable we want to solve: 
-	1 = schedule event
-	0 = not to schedule event
-•	An objective is a goal to minimize or maximize (e.g., maximize utility/enjoyment given events selected)
-•	Constraints are what the rules are. For example:
-o	Focus on interesting events only.
-	Not considering events below a Utility threshold, say, 5
-o	Arrive at 10 am, or earlier for a major event.
-	Arrive at 9:45 am, or earlier if it's a great morning event, say 8:00 am (if the utility score >= 7 to justify less sleep)
-o	No double-booking events
-	Pick only one event per 15-minute timeslot.
-	Locks in until the end (currently no partials, but we could leave 15 mins early if we want, for example)
-o	Only one meal for lunch and one meal for dinner
-	I assumed flexible 45-minute meal 'events' between, say, 11:30 am and 1:30 pm; 5:00 pm and 7:30 pm)
+- Optimization is figuring out how to get an objective given constraints and decisions.
+- Decisions are the actions to take toward an objective within constraints. 
+  - x[event] is a yes/no decision variable we want to solve:
+    - 1 = schedule event
+- An objective is a goal to minimize or maximize (e.g., maximize utility/enjoyment given events selected)
+- Constraints are what the rules are. For example:
+  - Focus on interesting events only.
+  - Not considering events below a Utility threshold, say, 5
+  - Arrive at 9:45 am, or earlier if it's a great morning event, say 8:00 am (if the utility score >= 7 to justify less sleep)
+- No double-booking events
+  - Pick only one event per 15-minute timeslot.
+  - Locks in until the end (currently no partials, but we could leave 15 mins early if we want, for example)
+- Only one meal for lunch and one meal for dinner
+  - I assumed flexible 60-minute meal 'events' between, say, 11:30 am and 1:30 pm; 5:00 pm and 7:30 pm)
 
 
 ----
