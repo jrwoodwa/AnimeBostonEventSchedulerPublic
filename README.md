@@ -1,11 +1,11 @@
 # 🗓 Anime Boston Scheduler Planner
-Scrapes the Anime Boston 2025 schedule using pandas/beautifulsoup and optimizes event choices using linear programming.
+Scrapes the Anime Boston 2025 schedule using pandas/beautifulsoup and optimizes event choices using linear programming (LP).
 
 Features:
 - Extracts full event grid with time, room, category, and color
 - Filters low-utility events and early low-value ones
 
-Solves the schedule as an assignment problem via linear programming (LP) optimization
+Solves the schedule as an assignment problem via LP optimization
  
 # 🔁 Nice to haves for next year
 - Refined scoring: Update utility ratings now that we know which events over‑ or under‑deliver.
