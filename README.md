@@ -7,8 +7,22 @@ Features:
 
 Solves the schedule as an assignment problem via LP optimization
 
-📽️ [View the presentation slides](https://docs.google.com/presentation/d/1evWCwAdsXThhtPQJd_bev3DldeYdR1qa/edit?usp=sharing&ouid=117377530885953668315&rtpof=true&sd=true)
- 
+## 📸 Presentation Slides
+
+![Slide 1](AnimeBostonPost/Slide1.PNG)
+![Slide 2](AnimeBostonPost/Slide2.PNG)
+![Slide 3](AnimeBostonPost/Slide3.PNG)
+![Slide 4](AnimeBostonPost/Slide4.PNG)
+![Slide 5](AnimeBostonPost/Slide5.PNG)
+![Slide 6](AnimeBostonPost/Slide6.PNG)
+![Slide 7](AnimeBostonPost/Slide7.PNG)
+![Slide 8](AnimeBostonPost/Slide8.PNG)
+![Slide 9](AnimeBostonPost/Slide9.PNG)
+![Slide 10](AnimeBostonPost/Slide10.PNG)
+![Slide 11](AnimeBostonPost/Slide11.PNG)
+![Slide 12](AnimeBostonPost/Slide12.PNG)
+![Slide 13](AnimeBostonPost/Slide13.PNG)
+
 # 🔁 Nice to haves for next year
 - Refined scoring: Update utility ratings now that we know which events over‑ or under‑deliver.
 - Cross‑building travel time: Model in security checks and walks between Hynes vs. Sheraton to avoid tight transfers.
