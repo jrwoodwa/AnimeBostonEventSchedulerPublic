@@ -6,6 +6,8 @@ Features:
 - Filters low-utility events and early low-value ones
 
 Solves the schedule as an assignment problem via LP optimization
+
+📽️ [View the presentation slides](https://docs.google.com/presentation/d/1evWCwAdsXThhtPQJd_bev3DldeYdR1qa/edit?usp=sharing&ouid=117377530885953668315&rtpof=true&sd=true)
  
 # 🔁 Nice to haves for next year
 - Refined scoring: Update utility ratings now that we know which events over‑ or under‑deliver.
