@@ -9,19 +9,19 @@ Solves the schedule as an assignment problem via LP optimization
 
 ## 📸 Presentation Slides
 
-![Slide 1](AnimeBostonPost/Slide1.PNG)
-![Slide 2](AnimeBostonPost/Slide2.PNG)
-![Slide 3](AnimeBostonPost/Slide3.PNG)
-![Slide 4](AnimeBostonPost/Slide4.PNG)
-![Slide 5](AnimeBostonPost/Slide5.PNG)
-![Slide 6](AnimeBostonPost/Slide6.PNG)
-![Slide 7](AnimeBostonPost/Slide7.PNG)
-![Slide 8](AnimeBostonPost/Slide8.PNG)
-![Slide 9](AnimeBostonPost/Slide9.PNG)
-![Slide 10](AnimeBostonPost/Slide10.PNG)
-![Slide 11](AnimeBostonPost/Slide11.PNG)
-![Slide 12](AnimeBostonPost/Slide12.PNG)
-![Slide 13](AnimeBostonPost/Slide13.PNG)
+![Slide 1](Anime%20Boston%20Post/Slide1.PNG)  
+![Slide 2](Anime%20Boston%20Post/Slide2.PNG)  
+![Slide 3](Anime%20Boston%20Post/Slide3.PNG)  
+![Slide 4](Anime%20Boston%20Post/Slide4.PNG)  
+![Slide 5](Anime%20Boston%20Post/Slide5.PNG)  
+![Slide 6](Anime%20Boston%20Post/Slide6.PNG)  
+![Slide 7](Anime%20Boston%20Post/Slide7.PNG)  
+![Slide 8](Anime%20Boston%20Post/Slide8.PNG)  
+![Slide 9](Anime%20Boston%20Post/Slide9.PNG)  
+![Slide 10](Anime%20Boston%20Post/Slide10.PNG)  
+![Slide 11](Anime%20Boston%20Post/Slide11.PNG)  
+![Slide 12](Anime%20Boston%20Post/Slide12.PNG)  
+![Slide 13](Anime%20Boston%20Post/Slide13.PNG)
 
 # 🔁 Nice to haves for next year
 - Refined scoring: Update utility ratings now that we know which events over‑ or under‑deliver.
